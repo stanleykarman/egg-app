@@ -1,0 +1,25 @@
+{
+  "name": "egg-app",
+  "version": "1.0.0",
+  "description": "egg.js",
+  "scripts": {
+    "dev": "egg-bin dev"
+  },
+  "dependencies": {
+    "egg": "^1.11.0",
+    "egg-view-nunjucks": "^2.1.4"
+  },
+  "devDependencies": {
+    "egg-bin": "^4.3.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/100209/egg-app.git"
+  },
+  "author": "H",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/100209/egg-app/issues"
+  },
+  "homepage": "https://github.com/100209/egg-app#readme"
+}
