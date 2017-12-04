@@ -7,6 +7,7 @@
   },
   "dependencies": {
     "egg": "^1.11.0",
+    "egg-mysql": "^3.0.0",
     "egg-view-nunjucks": "^2.1.4"
   },
   "devDependencies": {
